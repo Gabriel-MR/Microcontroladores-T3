@@ -1,0 +1,21 @@
+[
+    {
+        "id": "84610150245e2be2",
+        "type": "rpi-gpio in",
+        "z": "fd0a66513081a469",
+        "name": "Agua",
+        "pin": "18",
+        "intype": "down",
+        "debounce": "25",
+        "read": false,
+        "bcm": true,
+        "x": 110,
+        "y": 220,
+        "wires": [
+            [
+                "df018df77966931c",
+                "c3b1c0ee36900722"
+            ]
+        ]
+    }
+]
